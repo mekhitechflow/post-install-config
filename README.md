@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://github.com/mekhitechflow/post-install-config/blob/main/Agents.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="953" alt="Agents" src="https://github.com/user-attachments/assets/1bd159c8-fd0c-4570-aee6-c1bb51d0c93c">
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -42,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://github.com/mekhitechflow/post-install-config/blob/main/Departments.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="949" alt="Departments" src="https://github.com/user-attachments/assets/9f276913-0c08-4e85-93e8-55ef7ecf7166">
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -50,7 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://github.com/mekhitechflow/post-install-config/blob/main/Help%20Topic.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="949" alt="Help Topic" src="https://github.com/user-attachments/assets/94d8100b-177b-4e14-b4ca-ffc4c244ed02">
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -58,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://github.com/mekhitechflow/post-install-config/blob/main/Roles.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="895" alt="Roles" src="https://github.com/user-attachments/assets/5217e6cf-a82e-44d0-819b-53674b46613d">
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -66,7 +66,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/c2ipI8r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="951" alt="v" src="https://github.com/user-attachments/assets/82053403-58b5-4b32-9bb8-2d7361d1413f">
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -74,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://github.com/mekhitechflow/post-install-config/blob/main/SLA.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="949" alt="SLA" src="https://github.com/user-attachments/assets/78688ac4-ce03-45b5-83f5-76b13ca7ec08">
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -82,7 +82,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://github.com/mekhitechflow/post-install-config/blob/main/Teams.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="954" alt="Teams" src="https://github.com/user-attachments/assets/7d402515-0c00-4295-9ea8-826c0e4fd749">
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -90,7 +90,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://github.com/mekhitechflow/post-install-config/blob/main/Users.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="951" alt="Users" src="https://github.com/user-attachments/assets/42ce117f-846c-4017-92dd-ec0cc657f206">
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
